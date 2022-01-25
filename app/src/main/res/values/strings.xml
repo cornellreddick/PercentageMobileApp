@@ -1,0 +1,15 @@
+<resources>
+    <string name="ticket_label">Ticket Prices: </string>
+    <string name="ticket_Input">Enter Ticket Price</string>
+    <string name="discount">Discount:</string>
+    <string name="discount_price">Discount Price:</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="result_label">00.00</string>
+
+    <string name="percent_5">5%</string>
+    <string name="percent_10">10%</string>
+    <string name="percent_15">15%</string>
+    <string name="percent_20">20%</string>
+    <string name="percent_50">50%</string>
+</resources>
